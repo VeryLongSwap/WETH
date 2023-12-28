@@ -1,0 +1,1 @@
+forge verify-contract --show-standard-json-input $CONTRACT_ADDRESS src/WETH9.sol:WETH9 > output.json
